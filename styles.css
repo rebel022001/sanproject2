@@ -1,0 +1,53 @@
+
+hr{
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+    border: 0;
+    border-top: 1vw;
+}
+.container{
+    align-content: center;
+    padding-right: 1vw;
+    padding-left: 1vw;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+.media{
+    padding:1vw;
+}
+.media-object{
+    display: unset;
+}
+
+.media-left{
+    vertical-align: middle;
+    width:25%;
+    margin:1vw;
+    padding:1vw;
+}
+.media-right{
+    vertical-align: middle;
+    width:25%;margin:1vw;
+    padding:1vw;
+
+}
+
+
+@media only screen and (min-width: 600px) {
+    body{ 
+        
+        width:600px;
+        margin-left: 25vw;
+        margin-right: 25vw;
+       
+       
+    }
+   
+   
+  }
+  
+ 
+    
